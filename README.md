@@ -10,7 +10,7 @@ An interactive Tableau dashboard that analyzes company sales and profits over ti
 
 ### Methods
 -  Extracted raw data using PostgreSQL
--  Cleaned and transformed data using Python automation
+-  Cleaned and transformed data using [Python automation](scripts/create_subset.py)
 -  Analyzed data using SQL queries in PostgreSQL
 -  Imported CSV into Tableau
 -  Created calculated fields and interactive visualizations

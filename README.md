@@ -31,12 +31,12 @@ An interactive Tableau dashboard that analyzes company sales and profits over ti
 3. Fo to **File -> Open**, then select the downloaded '.twbx' file
 4. Interact with the dashboard filters to explore the data
 
-### SQL Queries
-Query 1 - Setting up data
-Query 2 - Sales by Region
-Query 3 - Sales Over Time (monthly)
-Query 4 - Profit Margins by Category
-Query 5 - Year-Over-Year Growth
-  - Utilizes LAG() and PARTITION BY functions
+### [SQL Queries](sql/superstore.sql)
+- Query 1 - Setting up data
+- Query 2 - Sales by Region
+- Query 3 - Sales Over Time (monthly)
+- Query 4 - Profit Margins by Category
+- Query 5 - Year-Over-Year Growth
+    - Utilizes LAG() and PARTITION BY functions
 
 

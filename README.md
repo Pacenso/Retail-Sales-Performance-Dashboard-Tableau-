@@ -32,11 +32,11 @@ An interactive Tableau dashboard that analyzes company sales and profits over ti
 4. Interact with the dashboard filters to explore the data
 
 ### [SQL Queries](sql/superstore.sql)
-- Query 1 - Setting up data
-- Query 2 - Sales by Region
-- Query 3 - Sales Over Time (monthly)
-- Query 4 - Profit Margins by Category
-- Query 5 - Year-Over-Year Growth
+1. Setting up data
+2. Sales by Region
+3. Sales Over Time (monthly)
+4. Profit Margins by Category
+5. Year-Over-Year Growth
     - Utilizes LAG() and PARTITION BY functions
 
 

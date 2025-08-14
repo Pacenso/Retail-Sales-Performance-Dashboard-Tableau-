@@ -70,7 +70,7 @@ ORDER BY profit_margin_percent DESC;
 	Calculate year-over-year growth percentage
 		LAG looks at previous row's value
 		PARTITION BY product category makes sure the LAG is calculating by product category, not across all categories
-	GROUP BY to aggregate bt sales per year and category
+	GROUP BY to aggregate sales per year and category
 	ORDER BY year (old to new) and the product category
 */
 SELECT EXTRACT(YEAR FROM order_date) AS year,
@@ -82,4 +82,5 @@ SELECT EXTRACT(YEAR FROM order_date) AS year,
 FROM superstore
 GROUP BY year, product_category
 ORDER BY year, product_category;
+
 

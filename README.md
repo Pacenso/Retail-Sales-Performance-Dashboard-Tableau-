@@ -6,7 +6,8 @@ An interactive Tableau dashboard that analyzes company sales and profits over ti
 - Create a clear and interactive way to monitor sales trends, profit margins, and year-over-year performance by region.
 
 ### Data Source
-- Dataset downloaded from Kaggle in CSV format
+This dataset was downloaded from [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final).
+It contains data about a fictitious superstore.  I wanted to keep things simple, so I created a subset of the dataset to perform exploration.
 
 ### Methods
 -  Extracted raw data using PostgreSQL

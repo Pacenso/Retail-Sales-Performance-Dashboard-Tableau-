@@ -19,7 +19,7 @@ Query 4 - Profit Margins by Category:
 1. Divide total sales by total profit and multiply by 100 to get a percentage
 2. Group by product category in decreasing order of profit margin percentage to see which product category fetches the highest profit
 
-Query 5 - Year Over Year Growth:
+Query 5 - Year-Over-Year Growth:
 1. Extract the year from each order date, as more detail is unnecessary for this analysis
 2. Calculate the total sales for the year in each product category
 3. Calculate the year-over-year growth by taking into account the previous years' totals

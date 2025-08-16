@@ -28,7 +28,7 @@ An interactive Tableau dashboard that analyzes company sales and profits over ti
 1. Download the 'Dashboard.twbx' file from this repository:
     - [Click here to download](tableau/Dashboard.twbx)
 2. Open Tableau Desctop or Tableau Public (desktop app)
-3. Fo to **File -> Open**, then select the downloaded '.twbx' file
+3. Go to **File -> Open**, then select the downloaded '.twbx' file
 4. Interact with the dashboard filters to explore the data
 
 ### [SQL Queries](sql/superstore.sql)
